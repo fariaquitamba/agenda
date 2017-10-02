@@ -1,0 +1,11 @@
+
+body{padding: left}
+.box{padding: 1px; width: 100%; color: #000;}
+.padding-small {padding: 10em; -webkit-columns: 200px 2; columns: 200px 2}
+.box{
+	width: 100%;
+}
+.box_title{
+		background: #333; 
+		color: #000;
+	}
